@@ -10,8 +10,8 @@ of its own. A repository's own file wins.
 - **Commit messages** follow
   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), for
   example `fix(ui): make the sticky top bar stick`. Imperative subject,
-  lowercase, no period, at most 100 characters. Leave issue numbers out of commit messages;
-  they belong in the pull request body.
+  lowercase, no period, 72 characters as the target and 100 at most. Leave
+  issue numbers out of commit messages; they belong in the pull request body.
 - **Pull request title** is a Conventional Commits title. Maintainers add the
   review-time bracket at the end, you do not have to.
 - **Pull request body** stays under 200 words and uses the markers in the
