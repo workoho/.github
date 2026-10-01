@@ -9,9 +9,18 @@
 
 ## Who we are
 
-We are a startup founded in April 2022 to help companies leverage the full potential of Microsoft 365 technology, Azure cloud technologies and Microsoft Entra to optimize their workflows. Through technological innovation, the automation of IT processes and the promotion of user empowerment, we strive to create sustainable added value.
+Workoho GmbH was founded in 2022 and works on Microsoft 365, Azure and Microsoft Entra. We automate IT processes, with a particular focus on security and consistency.
 
-As experts in modern work structures, we place a particular focus on security and consistency. We help companies to meet the requirements of the modern working world while ensuring an efficient and protected workspace with a focus on people. In this way, we ensure that employees are equipped with the necessary skills and resources to operate successfully in a dynamic environment.
+## What you can look at
+
+Some of our work is public.
+
+- [Entra Tiering Security Model](https://github.com/workoho/Entra-Tiering-Security-Model), a tiering model for cloud administrator identities in Microsoft Entra, run with Azure Automation
+- [Azure Automation Common Runbook Framework](https://github.com/workoho/AzAuto-Common-Runbook-FW), a standard way to create, manage and test Azure Automation runbooks
+- [Dev container images](https://github.com/workoho/devcontainer-image-m365-admin) for Microsoft 365 and Azure work
+- [Guest sponsor info](https://github.com/workoho/spfx-guest-sponsor-info), a SharePoint Online web part that shows a guest user's sponsors
+
+To talk to us, write to [yourfriends@workoho.com](mailto:yourfriends@workoho.com).
 
 [![Workoho][Workoho]][Workoho-url]
 
