@@ -9,8 +9,8 @@ of its own. A repository's own file wins.
   keeps that language.
 - **Commit messages** follow
   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), for
-  example `fix(ui): make the sticky top bar stick`. Imperative subject, lowercase, no
-  period, at most 100 characters. Leave issue numbers out of commit messages;
+  example `fix(ui): make the sticky top bar stick`. Imperative subject,
+  lowercase, no period, at most 100 characters. Leave issue numbers out of commit messages;
   they belong in the pull request body.
 - **Pull request title** is a Conventional Commits title. Maintainers add the
   review-time bracket at the end, you do not have to.
