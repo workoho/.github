@@ -9,7 +9,9 @@
 
 ## Who we are
 
-Workoho GmbH was founded in 2022 and works on Microsoft 365, Azure and Microsoft Entra. We automate IT processes, with a particular focus on security and consistency.
+Workoho is a consulting firm for Microsoft 365, Azure and Microsoft Entra, founded in 2022. We work like a mountain guide. We plan the route, rope up with your team and walk it together through technology, security, process and change, until you handle modern technology with confidence. Then we stay for the way back into everyday operations.
+
+*Guided by Workoho: Reaching the top of current technology together, with confidence and purpose.*
 
 To talk to us, write to [yourfriends@workoho.com](mailto:yourfriends@workoho.com).
 
