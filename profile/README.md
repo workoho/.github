@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://workoho.com/">
-    <img src="https://raw.githubusercontent.com/Workoho/.github/main/profile/logo.svg" alt="Logo" width="200" height="80">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workoho/.github/main/profile/workoho-wordmark-dark.svg">
+      <img src="https://raw.githubusercontent.com/workoho/.github/main/profile/workoho-wordmark.svg" alt="Workoho" width="200" height="48">
+    </picture>
   </a>
 </div>
 

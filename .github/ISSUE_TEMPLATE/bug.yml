@@ -1,0 +1,62 @@
+name: Bug report
+description: Something does not work as it should.
+title: "fix: "
+assignees:
+  - jpawlowski
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep the whole report under 200 words, 150 is the target. Facts only:
+        what is broken, where, and how to see it. Background and screenshots
+        go into a comment below. Do not paste secrets or customer data.
+        Security problems do not belong here, see the security policy.
+  - type: input
+    id: tldr
+    attributes:
+      label: TL;DR
+      description: One sentence.
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where
+      description: File and function, command, endpoint, setting or place in the UI.
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: Now
+      description: What happens.
+    validations:
+      required: true
+  - type: textarea
+    id: should
+    attributes:
+      label: Should
+      description: What should happen.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: >-
+        Steps to see it. For a failure in a running system, give the time to
+        the second including the time zone.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Version or commit, operating system, runtime.
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Optional. What a fix must not break.

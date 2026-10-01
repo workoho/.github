@@ -1,0 +1,2 @@
+# LF everywhere, so the first Windows checkout does not rewrite every file.
+* text=auto eol=lf
