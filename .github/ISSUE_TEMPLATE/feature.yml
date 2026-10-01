@@ -1,0 +1,51 @@
+name: Feature request
+description: Something is missing or should change.
+title: "feat: "
+assignees:
+  - jpawlowski
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep the whole request under 200 words, 150 is the target. One
+        proposal per issue. Background and trade-offs go into a comment below.
+        If you work with an AI agent anyway, have it draw a simple sketch of
+        the target state and attach it in a comment.
+  - type: input
+    id: tldr
+    attributes:
+      label: TL;DR
+      description: One sentence.
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where
+      description: File and function, command, endpoint, setting or place in the UI.
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: Now
+      description: What happens today.
+    validations:
+      required: true
+  - type: textarea
+    id: should
+    attributes:
+      label: Should
+      description: What should happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: not-wanted
+    attributes:
+      label: Not wanted
+      description: What this proposal explicitly does not ask for.
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Optional.

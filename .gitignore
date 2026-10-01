@@ -1,0 +1,9 @@
+# Personal Claude Code configuration: a person's own permission rules, which
+# must not become everyone's. Committed settings.json sits beside it.
+.claude/settings.local.json
+
+# Worktrees created by Claude Code and its agents. Do not ignore .claude/ as a
+# whole -- the committed agent configuration lives there.
+.claude/worktrees/
+
+.DS_Store

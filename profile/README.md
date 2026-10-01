@@ -1,20 +1,23 @@
 <div align="center">
   <a href="https://workoho.com/">
-    <img src="https://raw.githubusercontent.com/Workoho/.github/main/profile/logo.svg" alt="Logo" width="200" height="80">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workoho/.github/main/profile/workoho-wordmark-dark.svg">
+      <img src="https://raw.githubusercontent.com/workoho/.github/main/profile/workoho-wordmark.svg" alt="Workoho" width="200" height="48">
+    </picture>
   </a>
 </div>
 
 ## Who we are
 
-We are a startup founded in April 2022 to help companies leverage the full potential of Microsoft 365 technology, Azure cloud technologies and Microsoft Entra to optimize their workflows. Through technological innovation, the automation of IT processes and the promotion of user empowerment, we strive to create sustainable added value.
+Workoho is a consulting firm for Microsoft 365, Azure and Microsoft Entra, founded in 2022. We work like a mountain guide. We plan the route, rope up with your team and walk it together through technology, security, process and change, until you handle modern technology with confidence. Then we stay for the way back into everyday operations.
 
-As experts in modern work structures, we place a particular focus on security and consistency. We help companies to meet the requirements of the modern working world while ensuring an efficient and protected workspace with a focus on people. In this way, we ensure that employees are equipped with the necessary skills and resources to operate successfully in a dynamic environment.
+*Guided by Workoho: Reaching the top of current technology together, with confidence and purpose.*
+
+To talk to us, write to [yourfriends@workoho.com](mailto:yourfriends@workoho.com).
 
 [![Workoho][Workoho]][Workoho-url]
 
 -----
-
-_**"koho"** means connecting work and people with information technology and well-being to create success together for the future._
 
 [Legal / Impressum](https://wkho.io/impressum)
 

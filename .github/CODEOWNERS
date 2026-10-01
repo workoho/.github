@@ -1,0 +1,3 @@
+# GitHub does not inherit CODEOWNERS, so this file only covers this repository.
+# Julian is requested as a reviewer on every pull request here.
+* @jpawlowski
